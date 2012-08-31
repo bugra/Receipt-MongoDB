@@ -1,0 +1,31 @@
+<receipts>
+  <receipt>
+    <name> X Y </name>
+    <text>
+        Thanks for your order, X Y!
+        Want to manage your order online?
+        If you need to check the status of your order or make changes,
+        please visit our home page at Amazon.com and click on Your Account at
+        the top of any page.
+        Purchasing Information:
+        Get the Amazon.com Rewards Visa Card and get $30 instantly as an
+        Amazon.com Gift Card.
+        Order Summary:
+        Shipping Details : (order will arrive in 1 shipment)
+           Sold by: Amazon.com</text>
+    </receipt>
+  <receipt>
+    <name> A B </name>
+    <text>
+    Thanks for your order, A B!
+    Want to manage your order online? 
+    If you need to check the status of your order or make changes, please visit our home page at Amazon.com and click on Your Account at the top of any page.
+    Purchasing Information:
+    Get the Amazon.com Rewards Visa Card and get $30 instantly as an Amazon.com Gift Card.
+    Order Summary:
+    Shipping Details : (order will arrive in 1 shipment)
+    In Stock
+       Sold by: Amazon.com
+    </text>
+  </receipt>
+</receipts>
